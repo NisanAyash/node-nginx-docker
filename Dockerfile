@@ -12,4 +12,4 @@ EXPOSE 3000
 
 CMD ["echo", "Starting server..."]
 
-CMD ["npm", "start"]
+CMD ["node", "index"]
